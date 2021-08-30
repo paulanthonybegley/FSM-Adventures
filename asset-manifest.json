@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FSM-Adventures/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/FSM-Adventures/static/js/main.1dcb3f10.chunk.js",
+    "main.js.map": "/FSM-Adventures/static/js/main.1dcb3f10.chunk.js.map",
+    "runtime-main.js": "/FSM-Adventures/static/js/runtime-main.0123ac78.js",
+    "runtime-main.js.map": "/FSM-Adventures/static/js/runtime-main.0123ac78.js.map",
+    "static/js/2.a1819c24.chunk.js": "/FSM-Adventures/static/js/2.a1819c24.chunk.js",
+    "static/js/2.a1819c24.chunk.js.map": "/FSM-Adventures/static/js/2.a1819c24.chunk.js.map",
+    "static/js/3.5929a237.chunk.js": "/FSM-Adventures/static/js/3.5929a237.chunk.js",
+    "static/js/3.5929a237.chunk.js.map": "/FSM-Adventures/static/js/3.5929a237.chunk.js.map",
+    "index.html": "/FSM-Adventures/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/FSM-Adventures/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a1819c24.chunk.js.LICENSE.txt": "/FSM-Adventures/static/js/2.a1819c24.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FSM-Adventures/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0123ac78.js",
+    "static/js/2.a1819c24.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1dcb3f10.chunk.js"
+  ]
+}
